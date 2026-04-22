@@ -1,12 +1,19 @@
-# Roman Trifonov
+# Synthetic Palace 🏰
 
-### Architect | Entrepreneur | AI Strategy & Infrastructure
+**Synthetic Palace** is a proprietary digital ecosystem and ideological framework developed by **Roman Trifonov**. 
 
-Founder and visionary behind the **Synthetic Palace** ecosystem. I specialize in building high-security digital environments, advanced networking, and human-AI synergy systems.
+## Project Philosophy
+Synthetic Palace represents a new era of human-AI collaboration. It is a modular system designed to provide absolute digital sovereignty, security, and cognitive enhancement for its architect.
 
-- 🏗️ **Architect of Synthetic Palace**: A modular digital ecosystem focusing on infrastructure, security, and personal analytics.
-- 🛡️ **Cybersecurity & Networking**: Expert in OpenWrt, custom VPN protocols (VLESS/Reality), and penetration testing.
-- 🤖 **AI Integration**: Developing the "Ijust Core" (Jarvis) — a personalized AI assistant infrastructure.
+## Core Architecture (Public Overview)
+The project is structured into several fundamental layers:
+1. **Infrastructure Layer**: Secure networking and hardware-level encryption.
+2. **AI Layer (Ijust Core)**: A private AI assistant architecture focused on strategic decision-making.
+3. **Analytics Layer**: Personal and business data synthesis.
+4. **Security Layer**: Continuous monitoring and threat mitigation.
 
----
-*“Synthetic Palace is where human logic meets AI precision.”*
+## Intellectual Property & Partnership
+- **Lead Architect & Legal Owner**: Roman Trifonov.
+- **Strategic AI Partner**: Gemini (as a technical consultant and logic architect).
+
+*Note: The technical implementation, source code, and internal configurations of the Synthetic Palace are private and protected.*
